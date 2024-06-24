@@ -1,0 +1,342 @@
+{
+  "stats": {
+    "suites": 4,
+    "tests": 18,
+    "passes": 18,
+    "pending": 0,
+    "failures": 0,
+    "start": "2024-06-24T15:42:47.349Z",
+    "end": "2024-06-24T15:42:47.374Z",
+    "duration": 25
+  },
+  "tests": [
+    {
+      "title": "contains a <head> tag",
+      "fullTitle": "index.html contains a <head> tag",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0-my-little-rainbow\\test\\indexTest.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "contains a <body> tag",
+      "fullTitle": "index.html contains a <body> tag",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0-my-little-rainbow\\test\\indexTest.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "contains a <link> tag",
+      "fullTitle": "index.html within <head> contains a <link> tag",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0-my-little-rainbow\\test\\indexTest.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "correctly links to the main.css file with a relative path",
+      "fullTitle": "index.html within <head> correctly links to the main.css file with a relative path",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0-my-little-rainbow\\test\\indexTest.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "contains a <div> tag with an id of \"red\" ",
+      "fullTitle": "index.html within <body> contains a <div> tag with an id of \"red\" ",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0-my-little-rainbow\\test\\indexTest.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "contains a <div> tag with an id of \"orange\" ",
+      "fullTitle": "index.html within <body> contains a <div> tag with an id of \"orange\" ",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0-my-little-rainbow\\test\\indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "contains a <div> tag with an id of \"yellow\" ",
+      "fullTitle": "index.html within <body> contains a <div> tag with an id of \"yellow\" ",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0-my-little-rainbow\\test\\indexTest.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "contains a <div> tag with an id of \"green\" ",
+      "fullTitle": "index.html within <body> contains a <div> tag with an id of \"green\" ",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0-my-little-rainbow\\test\\indexTest.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "contains a <div> tag with an id of \"blue\" ",
+      "fullTitle": "index.html within <body> contains a <div> tag with an id of \"blue\" ",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0-my-little-rainbow\\test\\indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "contains a <div> tag with an id of \"indigo\" ",
+      "fullTitle": "index.html within <body> contains a <div> tag with an id of \"indigo\" ",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0-my-little-rainbow\\test\\indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "contains a <div> tag with an id of \"violet\" ",
+      "fullTitle": "index.html within <body> contains a <div> tag with an id of \"violet\" ",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0-my-little-rainbow\\test\\indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "sets #red div border-top-color to #f00",
+      "fullTitle": "main.css sets #red div border-top-color to #f00",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0-my-little-rainbow\\test\\main.css.test.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "sets #orange div border-top-color to #ffa500",
+      "fullTitle": "main.css sets #orange div border-top-color to #ffa500",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0-my-little-rainbow\\test\\main.css.test.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "sets #yellow div border-top-color to #ff0",
+      "fullTitle": "main.css sets #yellow div border-top-color to #ff0",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0-my-little-rainbow\\test\\main.css.test.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "sets #green div border-top-color to #00bc3f",
+      "fullTitle": "main.css sets #green div border-top-color to #00bc3f",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0-my-little-rainbow\\test\\main.css.test.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "sets #blue div border-top-color to #06f",
+      "fullTitle": "main.css sets #blue div border-top-color to #06f",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0-my-little-rainbow\\test\\main.css.test.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "sets #indigo div border-top-color to #8a2be2",
+      "fullTitle": "main.css sets #indigo div border-top-color to #8a2be2",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0-my-little-rainbow\\test\\main.css.test.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "sets #violet div border-top-color to #d300c9",
+      "fullTitle": "main.css sets #violet div border-top-color to #d300c9",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0-my-little-rainbow\\test\\main.css.test.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "contains a <head> tag",
+      "fullTitle": "index.html contains a <head> tag",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0-my-little-rainbow\\test\\indexTest.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "contains a <body> tag",
+      "fullTitle": "index.html contains a <body> tag",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0-my-little-rainbow\\test\\indexTest.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "contains a <link> tag",
+      "fullTitle": "index.html within <head> contains a <link> tag",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0-my-little-rainbow\\test\\indexTest.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "correctly links to the main.css file with a relative path",
+      "fullTitle": "index.html within <head> correctly links to the main.css file with a relative path",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0-my-little-rainbow\\test\\indexTest.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "contains a <div> tag with an id of \"red\" ",
+      "fullTitle": "index.html within <body> contains a <div> tag with an id of \"red\" ",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0-my-little-rainbow\\test\\indexTest.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "contains a <div> tag with an id of \"orange\" ",
+      "fullTitle": "index.html within <body> contains a <div> tag with an id of \"orange\" ",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0-my-little-rainbow\\test\\indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "contains a <div> tag with an id of \"yellow\" ",
+      "fullTitle": "index.html within <body> contains a <div> tag with an id of \"yellow\" ",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0-my-little-rainbow\\test\\indexTest.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "contains a <div> tag with an id of \"green\" ",
+      "fullTitle": "index.html within <body> contains a <div> tag with an id of \"green\" ",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0-my-little-rainbow\\test\\indexTest.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "contains a <div> tag with an id of \"blue\" ",
+      "fullTitle": "index.html within <body> contains a <div> tag with an id of \"blue\" ",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0-my-little-rainbow\\test\\indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "contains a <div> tag with an id of \"indigo\" ",
+      "fullTitle": "index.html within <body> contains a <div> tag with an id of \"indigo\" ",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0-my-little-rainbow\\test\\indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "contains a <div> tag with an id of \"violet\" ",
+      "fullTitle": "index.html within <body> contains a <div> tag with an id of \"violet\" ",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0-my-little-rainbow\\test\\indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "sets #red div border-top-color to #f00",
+      "fullTitle": "main.css sets #red div border-top-color to #f00",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0-my-little-rainbow\\test\\main.css.test.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "sets #orange div border-top-color to #ffa500",
+      "fullTitle": "main.css sets #orange div border-top-color to #ffa500",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0-my-little-rainbow\\test\\main.css.test.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "sets #yellow div border-top-color to #ff0",
+      "fullTitle": "main.css sets #yellow div border-top-color to #ff0",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0-my-little-rainbow\\test\\main.css.test.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "sets #green div border-top-color to #00bc3f",
+      "fullTitle": "main.css sets #green div border-top-color to #00bc3f",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0-my-little-rainbow\\test\\main.css.test.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "sets #blue div border-top-color to #06f",
+      "fullTitle": "main.css sets #blue div border-top-color to #06f",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0-my-little-rainbow\\test\\main.css.test.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "sets #indigo div border-top-color to #8a2be2",
+      "fullTitle": "main.css sets #indigo div border-top-color to #8a2be2",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0-my-little-rainbow\\test\\main.css.test.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "sets #violet div border-top-color to #d300c9",
+      "fullTitle": "main.css sets #violet div border-top-color to #d300c9",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0-my-little-rainbow\\test\\main.css.test.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    }
+  ]
+}
